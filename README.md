@@ -6,16 +6,7 @@ The local folder is `Projects/IPB/CAD`. The GitHub repository is [QnarikP/ipb-ca
 
 ## Layout
 
-| Path | Contents |
-| --- | --- |
-| `0 - misc/docs` | Cluster SSH setup and VS Code for C on Linux |
-| `1 - introduction/docs` | Part 1 slides: motivation and key concepts |
-| `1 - introduction/notes` | Lecture transcript (2026-09-29) and Anki deck |
-| `2 - pthreads/docs` | POSIX threads slides, exercise sheets, November practical |
-| `2 - pthreads/exercises` | Solutions written and run for the pthreads exercises |
-| `3 - mpi` | MPI programming slides |
-
-Professor source drops live under each part’s `given/` directory and are kept out of the commits. Compiled binaries (`.exe` and extensionless build outputs) are ignored.
+Your solutions are under `2 - pthreads/exercises`. Course slides, setup guides, and lecture notes stay on this machine and are not in the repository. Professor source under each part’s `given/` directory is also left out. Compiled binaries are ignored.
 
 ## Pthreads exercises
 

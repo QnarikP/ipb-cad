@@ -1,3 +1,9 @@
+# Course handouts and lecture notes stay local
+**/docs/
+1 - introduction/notes/
+3 - mpi/*.pdf
+practical-work-*.pdf
+
 # Compiled programs
 *.exe
 *.o
