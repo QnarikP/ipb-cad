@@ -1,0 +1,18 @@
+# Compiled programs
+*.exe
+*.o
+*.obj
+*.out
+*.a
+*.so
+*.dll
+
+# Extensionless binaries built next to the exercise sources
+2 - pthreads/exercises/**/solution
+2 - pthreads/exercises/**/solution_parallel
+2 - pthreads/exercises/**/solution_parallel_v2
+2 - pthreads/exercises/**/solution_time
+2 - pthreads/exercises/**/solution_cond_var
+2 - pthreads/exercises/**/solution_mutex
+2 - pthreads/exercises/**/collatz
+2 - pthreads/exercises/**/collatz_th
