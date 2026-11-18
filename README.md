@@ -1,8 +1,8 @@
-# ipb-cad-hpc
+# ipb-cad
 
 Coursework for **Computação de Alto Desempenho (CAD)** at Instituto Politécnico de Bragança. The course covers shared-memory programming with POSIX threads and distributed-memory programming with MPI.
 
-The local folder is `Projects/IPB/CAD`. The repository name is `ipb-cad-hpc` so it stays distinct from other IPB projects (`COC`, `RE`, `Thesis`).
+The local folder is `Projects/IPB/CAD`. The GitHub repository is [QnarikP/ipb-cad](https://github.com/QnarikP/ipb-cad) so it stays distinct from other IPB projects (`COC`, `RE`, `Thesis`).
 
 ## Layout
 
